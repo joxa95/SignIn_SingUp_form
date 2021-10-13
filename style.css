@@ -6,8 +6,8 @@
 	--background-color: rgb(6, 24, 34);
 	--card-background-color: rgb(9, 31, 43);
 	--card-border-color: rgb(0, 24, 77);
-	--card-header-text-color: rgb(204, 116, 0);
-	--login-btn-bg-color: rgb(204, 116, 0);
+	--card-header-text-color: rgb(255, 145, 0);
+	--login-btn-bg-color: rgb(255, 145, 0);
 	--login-btn-bg-active-color: rgb(24, 202, 0);
 	--key-icon-bg-color: #49869e;
 }
